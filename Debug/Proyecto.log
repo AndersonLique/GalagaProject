@@ -1,0 +1,39 @@
+﻿  Source.cpp
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(15,30): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(15,30): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(16,14): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(16,14): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,7): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,7): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,11): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,11): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,15): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,15): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,19): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,19): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,23): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(17,23): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,27): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,27): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,31): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,31): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,35): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,35): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,39): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,39): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,43): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(19,43): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,8): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,8): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,12): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,12): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,16): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,16): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,20): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,20): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,24): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\LENOVO\source\repos\Proyecto\Header.h(20,24): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\LENOVO\source\repos\Proyecto\Source.cpp(24,22): warning C4101: 'dx': variable local sin referencia
+C:\Users\LENOVO\source\repos\Proyecto\Source.cpp(22,7): warning C4101: 'tecla': variable local sin referencia
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Proyecto.vcxproj -> C:\Users\LENOVO\source\repos\Proyecto\Debug\Proyecto.exe
